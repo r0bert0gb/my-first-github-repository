@@ -7,3 +7,5 @@ Linha inserida em 11/02 para lembrar o que eu estava fazendo
 Essa linha foi adicionada na branch feature-2
 
 Mais uma modificação na branch feature-2
+
+Editado na branch feature-2

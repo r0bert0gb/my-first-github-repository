@@ -5,3 +5,5 @@ Just another file created in the feature-1 branch
 Linha inserida em 11/02 para lembrar o que eu estava fazendo
 
 Essa linha foi adicionada na branch feature-2
+
+Mais uma modificação na branch feature-2

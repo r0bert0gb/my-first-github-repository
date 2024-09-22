@@ -3,3 +3,5 @@ Mais um arquivo criado na branch feature-1
 Este arquivo foi alterado localmente!
 
 Linha adicionada na branch feature-2
+
+Mais uma alteração no "another-file.txt".
